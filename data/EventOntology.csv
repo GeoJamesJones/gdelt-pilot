@@ -1,0 +1,315 @@
+﻿2,1,1,4,4,1,0,1,21144101,10,true,MAKE PUBLIC STATEMENT,,," Make statement, not specified below"
+2,1,1,4,4,1,0,1,21144101,11,true,MAKE PUBLIC STATEMENT,,, Decline comment
+2,1,1,4,4,1,0,1,21144101,12,true,MAKE PUBLIC STATEMENT,,, Make pessimistic comment
+2,1,1,4,4,1,0,1,21144101,13,true,MAKE PUBLIC STATEMENT,,, Make optimistic comment
+4,2,3,3,4,1,0,1,42334101,14,true,MAKE PUBLIC STATEMENT,,, Consider policy option
+2,2,2,2,2,1,0,1,22222101,100,true,DEMAND,,," Demand, not specified below"
+2,2,2,2,4,1,0,1,22224101,101,true,DEMAND,,," Demand information, investigation"
+2,2,3,2,2,1,0,1,22322101,1011,true,DEMAND,,, Demand economic cooperation
+2,4,2,2,2,1,0,1,24222101,1012,true,DEMAND,,, Demand military cooperation
+2,2,2,3,2,1,0,1,22232101,1013,true,DEMAND,,, Demand judicial cooperation
+2,2,2,2,4,1,0,1,22224101,1014,true,DEMAND,,, Demand intelligence cooperation
+4,2,2,2,2,1,0,1,42222101,102,true,DEMAND,,, Demand policy support
+2,3,3,2,2,1,0,1,23322101,103,true,DEMAND,,," Demand aid, protection, or peacekeeping"
+2,2,4,2,2,1,0,1,22422101,1031,true,DEMAND,,, Demand economic aid
+2,4,2,2,2,1,0,1,24222101,1032,true,DEMAND,,, Demand military aid
+2,2,3,3,2,1,0,1,22332101,1033,true,DEMAND,,, Demand humanitarian aid
+2,4,2,2,2,1,0,1,24222101,1034,true,DEMAND,,, Demand military protection or peacekeeping
+4,2,2,2,2,1,0,1,42222101,104,true,DEMAND,,," Demand political reform, not specified below"
+4,2,2,2,2,1,0,1,42222101,1041,true,DEMAND,,, Demand change in leadership
+4,2,2,2,2,1,0,1,42222101,1042,true,DEMAND,,, Demand policy change
+2,2,2,4,2,1,0,1,22242101,1043,true,DEMAND,,, Demand rights
+4,2,2,2,2,1,0,1,42222101,1044,true,DEMAND,,," Demand change in institutions, regime"
+4,2,2,2,2,1,0,1,42222101,105,true,DEMAND,,, Demand mediation
+4,2,2,2,2,1,0,1,42222101,1051,true,DEMAND,,, Demand easing of administrative sanctions
+4,2,2,2,2,1,0,1,42222101,1052,true,DEMAND,,, Demand easing of political dissent
+2,2,3,3,2,1,0,1,22332101,1053,true,DEMAND,,, Demand release of persons or property
+2,2,4,2,2,1,0,1,22422101,1054,true,DEMAND,,," Demand easing of economic sanctions, boycott, or embargo"
+2,2,2,2,2,1,0,1,22222101,1055,true,DEMAND,,, Demand that target allows international involvement (non-mediation)
+2,4,2,2,2,1,0,1,24222101,1056,true,DEMAND,,, Demand de-escalation of military engagement
+2,2,2,2,2,1,2,1,22222121,106,true,DEMAND,,,    Demand withdrawal
+2,4,2,2,2,1,0,1,24222101,107,true,DEMAND,,, Demand ceasefire
+4,2,2,2,2,1,0,1,42222101,108,true,DEMAND,,," Demand meeting, negotiation"
+2,1,0,1,2,0,0,1,21012001,110,true,DISAPPROVE,,," Disapprove, not specified below"
+2,1,0,1,2,0,0,1,21012001,111,true,DISAPPROVE,,, Criticize or denounce
+2,1,0,1,2,0,0,1,21012001,112,true,DISAPPROVE,,," Accuse, not specified below"
+2,1,0,3,2,0,0,1,21032001,1121,true,DISAPPROVE,Accuse,," Accuse of crime, corruption"
+2,1,0,3,2,0,0,1,21032001,1122,true,DISAPPROVE,Accuse,, Accuse of human rights abuses
+2,3,0,1,2,0,0,1,23012001,1123,true,DISAPPROVE,Accuse,, Accuse of aggression
+2,4,0,1,2,0,0,1,24012001,1124,true,DISAPPROVE,Accuse,, Accuse of war crimes
+3,3,0,3,2,0,0,1,33032001,1125,true,DISAPPROVE,Accuse,," Accuse of espionage, treason"
+3,1,0,3,2,0,0,1,31032001,113,true,DISAPPROVE,,, Rally opposition against
+4,1,0,2,2,0,0,1,41022001,114,true,DISAPPROVE,,, Complain officially
+1,0,0,3,2,0,0,1,10032001,115,true,DISAPPROVE,,, Bring lawsuit against
+1,0,0,3,2,0,0,1,10032001,116,true,DISAPPROVE,,, Find guilty or liable (legally)
+2,1,1,1,2,0,0,1,21112001,120,true,REJECT,,," Reject, not specified below"
+2,1,1,1,2,0,0,1,21112001,121,true,REJECT,,, Reject material cooperation
+2,1,4,1,2,0,0,1,21412001,1211,true,REJECT,material aid,, Reject economic cooperation
+2,4,1,1,2,0,0,1,24112001,1212,true,REJECT,material aid,, Reject military cooperation
+3,2,1,1,2,1,0,1,32112101,122,true,REJECT,,," Reject request or demand for material aid, not specified below"
+3,2,4,1,2,1,0,1,32412101,1221,true,REJECT,,, Reject request for economic aid
+3,4,1,1,2,1,0,1,34112101,1222,true,REJECT,,, Reject request for military aid
+3,2,1,4,2,1,0,1,32142101,1223,true,REJECT,,, Reject request for humanitarian aid
+3,4,1,1,2,1,0,1,34112101,1224,true,REJECT,,, Reject request for military protection or peacekeeping
+4,1,1,3,2,1,0,1,41132101,123,true,REJECT,,," Reject request or demand for political reform, not specified below"
+4,1,1,3,2,1,0,1,41132101,1231,true,REJECT,,, Reject request for change in leadership
+4,1,1,3,2,1,0,1,41132101,1232,true,REJECT,,, Reject request for policy change
+3,1,1,4,2,1,0,1,31142101,1233,true,REJECT,,, Reject request for rights
+3,2,1,4,2,1,0,1,32142101,1234,true,REJECT,,," Reject request for change in institutions, regime"
+3,2,2,2,2,1,0,1,32222101,124,true,REJECT,,," Refuse to yield, not specified below"
+3,2,2,2,2,1,0,1,32222101,1241,true,REJECT,,, Refuse to ease administrative sanctions
+3,2,2,4,2,1,0,1,32242101,1242,true,REJECT,,, Refuse to ease popular dissent
+3,2,2,4,2,1,0,1,32242101,1243,true,REJECT,,, Refuse to release persons or property
+3,2,4,2,2,1,0,1,32422101,1244,true,REJECT,,," Refuse to ease economic sanctions, boycott, or embargo"
+3,2,2,2,2,1,0,1,32222101,1245,true,REJECT,,, Refuse to allow international involvement (non mediation)
+3,4,2,2,2,1,0,1,34222101,1246,true,REJECT,,, Refuse to de-escalate military engagement
+3,1,1,2,1,1,0,1,31121101,125,true,REJECT,,," Reject proposal to meet, discuss, or negotiate"
+3,1,1,2,1,1,0,1,31121101,126,true,REJECT,,, Reject mediation
+3,1,1,2,1,1,0,1,31121101,127,true,REJECT,,," Reject plan, agreement to settle dispute"
+2,1,1,3,1,1,0,1,21131101,128,true,REJECT,,," Defy norms, law"
+4,1,1,2,1,1,0,1,41121101,129,true,REJECT,,, Veto
+2,2,2,2,2,1,0,1,22222101,130,true,THREATEN,,," Threaten, not specified below"
+2,1,2,2,2,1,0,1,21222101,131,true,THREATEN,,," Threaten non-force, not specified below"
+2,2,4,2,2,1,0,1,22422101,1311,true,THREATEN,,, Threaten to reduce or stop aid
+3,2,4,2,2,1,0,1,32422101,1312,true,THREATEN,,," Threaten to boycott, embargo, or sanction"
+4,2,2,2,2,1,0,1,42222101,1313,true,THREATEN,,, Threaten to reduce or break relations
+3,2,2,2,2,1,0,1,32222101,132,true,THREATEN,,," Threaten with administrative sanctions, not specified below"
+4,2,2,3,2,1,0,1,42232101,1321,true,THREATEN,,, Threaten to impose restrictions on political freedoms
+4,2,2,3,2,1,0,1,42232101,1322,true,THREATEN,,, Threaten to ban political parties or politicians
+2,2,2,3,2,1,2,4,22232124,1323,true,THREATEN,,, Threaten to impose curfew
+2,3,2,3,2,1,1,2,23232112,1324,true,THREATEN,,, Threaten to impose state of emergency or martial law
+4,2,2,3,2,1,0,1,42232101,133,true,THREATEN,,," Threaten political dissent, protest"
+3,2,2,2,2,1,0,1,32222101,134,true,THREATEN,,, Threaten to halt negotiations
+3,2,2,2,2,1,0,1,32222101,135,true,THREATEN,,, Threaten to halt mediation
+3,2,2,2,2,1,0,1,32222101,136,true,THREATEN,,, Threaten to halt international involvement (non-mediation)
+3,3,2,2,2,1,0,1,33222101,137,true,THREATEN,,, Threaten with violent repression
+2,4,2,2,2,1,0,1,24222101,138,true,THREATEN,,," Threaten to use military force, not specified below"
+3,4,2,2,2,1,0,1,34222101,1381,true,THREATEN,,, Threaten blockade
+3,4,2,2,2,1,4,1,34222141,1382,true,THREATEN,,, Threaten occupation
+2,4,2,4,2,1,1,1,24242111,1383,true,THREATEN,,, Threaten unconventional violence
+2,4,2,2,2,1,1,1,24222111,1384,true,THREATEN,,, Threaten conventional attack
+2,4,2,2,2,1,1,1,24222111,1385,true,THREATEN,,, Threaten attack with WMD
+2,3,2,2,2,1,0,1,23222101,139,true,THREATEN,,, Give ultimatum
+4,2,2,3,3,2,1,1,42233211,140,true,PROTEST,,," Engage in political dissent, not specified below"
+3,2,2,4,3,2,1,1,32243211,141,true,PROTEST,,"Peaceful protest,Protest with intervention", Demonstrate or rally
+3,2,2,4,3,2,1,1,32243211,1411,true,PROTEST,,, Demonstrate for leadership change
+3,2,2,4,3,2,1,1,32243211,1412,true,PROTEST,,, Demonstrate for policy change
+3,2,2,4,3,2,1,1,32243211,1413,true,PROTEST,,, Demonstrate for rights
+3,2,2,4,3,2,1,1,32243211,1414,true,PROTEST,,," Demonstrate for change in institutions, regime"
+3,2,2,4,3,2,1,1,32243211,142,true,PROTEST,,," Conduct hunger strike, not specified below"
+4,2,2,4,3,2,1,1,42243211,1421,true,PROTEST,,, Conduct hunger strike for leadership change
+3,2,2,4,3,2,1,1,32243211,1422,true,PROTEST,,, Conduct hunger strike for policy change
+3,2,2,4,3,2,1,1,32243211,1423,true,PROTEST,,, Conduct hunger strike for rights
+4,2,2,4,3,2,1,1,42243211,1424,true,PROTEST,,," Conduct hunger strike for change in institutions, regime"
+3,2,3,4,3,2,1,1,32343211,143,true,PROTEST,,," Conduct strike or boycott, not specified below"
+4,2,3,4,3,2,1,1,42343211,1431,true,PROTEST,,, Conduct strike or boycott for leadership change
+3,2,3,4,3,2,1,1,32343211,1432,true,PROTEST,,, Conduct strike or boycott for policy change
+3,2,3,4,3,2,1,1,32343211,1433,true,PROTEST,,, Conduct strike or boycott for rights
+4,2,3,4,3,2,1,1,42343211,1434,true,PROTEST,,," Conduct strike or boycott for change in institutions, regime"
+3,2,3,4,3,2,4,1,32343241,144,true,PROTEST,,," Obstruct passage, block"
+4,2,3,4,3,2,4,1,42343241,1441,true,PROTEST,,, Obstruct passage to demand leadership change
+3,2,3,4,3,2,4,1,32343241,1442,true,PROTEST,,, Obstruct passage to demand policy change
+3,2,3,4,3,2,4,1,32343241,1443,true,PROTEST,,, Obstruct passage to demand rights
+3,2,3,4,3,2,4,1,32343241,1444,true,PROTEST,,," Obstruct passage to demand change in institutions, regime"
+3,2,3,4,3,2,4,1,32343241,145,true,PROTEST,,"Violent demonstration, Mob violence"," Protest violently, riot"
+4,2,3,4,3,2,4,1,42343241,1451,true,PROTEST,,, Engage in violent protest for leadership change
+3,2,3,4,3,2,4,1,32343241,1452,true,PROTEST,,, Engage in violent protest for policy change
+3,2,3,4,3,2,4,1,32343241,1453,true,PROTEST,,, Engage in violent protest for rights
+4,2,3,4,3,2,4,1,42343241,1454,true,PROTEST,,," Engage in violent protest for  change in institutions, regime"
+2,1,1,4,4,1,0,1,21144101,15,true,EXHIBIT MILITARY POSTURE,,, Acknowledge or claim responsibility
+2,4,2,2,2,2,3,1,24222231,150,true,EXHIBIT MILITARY POSTURE,,," Demonstrate military or police power, not specified below"
+2,4,2,2,2,2,3,3,24222233,151,true,EXHIBIT MILITARY POSTURE,,, Increase police alert status
+2,4,2,2,2,2,3,3,24222233,152,true,EXHIBIT MILITARY POSTURE,,, Increase military alert status
+2,4,2,2,2,2,3,1,24222231,153,true,EXHIBIT MILITARY POSTURE,,, Mobilize or increase police power
+2,4,2,2,2,2,3,1,24222231,154,true,EXHIBIT MILITARY POSTURE,,, Mobilize or increase armed forces
+2,1,1,4,4,1,0,1,21144101,16,true,REDUCE RELATIONS,,, Deny responsibility
+3,2,2,2,2,1,0,1,32222101,160,true,REDUCE RELATIONS,,," Reduce relations, not specified below"
+4,2,2,2,2,1,0,1,42222101,161,true,REDUCE RELATIONS,,, Reduce or break diplomatic relations
+3,2,4,2,2,1,0,1,32422101,162,true,REDUCE RELATIONS,,," Reduce or stop aid, not specified below"
+3,2,4,2,2,1,0,1,32422101,1621,true,REDUCE RELATIONS,,, Reduce or stop economic assistance
+3,4,2,2,2,1,0,1,34222101,1622,true,REDUCE RELATIONS,,, Reduce or stop military assistance
+3,2,2,4,2,1,0,1,32242101,1623,true,REDUCE RELATIONS,,, Reduce or stop humanitarian assistance
+3,2,4,2,2,1,0,1,32422101,163,true,REDUCE RELATIONS,,," Impose embargo, boycott, or sanctions"
+3,2,2,2,2,1,0,1,32222101,164,true,REDUCE RELATIONS,,, Halt negotiations
+3,2,2,2,2,1,0,1,32222101,165,true,REDUCE RELATIONS,,, Halt mediation
+3,2,2,2,2,1,0,1,32222101,166,true,REDUCE RELATIONS,,," Expel or withdraw, not specified below"
+3,4,2,2,2,1,0,1,34222101,1661,true,REDUCE RELATIONS,,, Expel or withdraw peacekeepers
+3,2,2,2,2,1,0,1,32222101,1662,true,REDUCE RELATIONS,,," Expel or withdraw inspectors, observers"
+3,2,4,2,2,1,0,1,32422101,1663,true,REDUCE RELATIONS,,, Expel or withdraw aid agencies
+2,1,1,4,4,1,0,3,21144103,17,true,COERCE,,, Engage in symbolic act
+2,2,2,2,2,2,0,1,22222201,170,true,COERCE,,," Coerce, not specified below"
+2,2,2,2,2,2,0,1,22222201,171,true,COERCE,,Looting/property destruction," Seize or damage property, not specified below"
+2,2,2,2,2,2,0,1,22222201,1711,true,COERCE,,, Confiscate property
+2,2,2,2,2,2,0,1,22222201,1712,true,COERCE,,, Destroy property
+3,2,2,2,2,2,0,1,32222201,172,true,COERCE,,," Impose administrative sanctions, not specified below"
+4,2,2,2,2,2,0,1,42222201,1721,true,COERCE,,, Impose restrictions on political freedoms
+4,2,2,2,2,2,0,1,42222201,1722,true,COERCE,,, Ban political parties or politicians
+2,2,2,2,2,2,4,4,22222244,1723,true,COERCE,,, Impose curfew
+2,4,2,2,2,2,4,1,24222241,1724,true,COERCE,,, Impose state of emergency or martial law
+2,3,2,4,2,2,0,1,23242201,173,true,COERCE,,Arrests," Arrest, detain, or charge with legal action"
+2,2,2,3,2,2,2,1,22232221,174,true,COERCE,,, Expel or deport individuals
+3,3,2,2,2,2,0,1,33222201,175,true,COERCE,,"Excessive force against protesters, Attack", Use tactics of violent repression
+2,1,1,4,4,1,0,1,21144101,18,true,ASSAULT,,, Make empathetic comment
+2,2,2,3,1,1,0,1,22231101,180,true,ASSAULT,,," Use unconventional violence, not specified below"
+2,2,2,3,1,1,0,1,22231101,181,true,ASSAULT,,Abduction/forced disappearance," Abduct, hijack, or take hostage"
+2,2,2,3,1,1,0,1,22231101,182,true,ASSAULT,,," Physically assault, not specified below"
+2,2,2,3,1,1,0,1,22231101,1821,true,ASSAULT,,Sexual violence, Sexually assault
+2,2,2,3,1,1,0,1,22231101,1822,true,ASSAULT,,, Torture
+2,2,2,3,1,1,0,1,22231101,1823,true,ASSAULT,,, Kill by physical assault
+2,2,2,3,1,1,0,1,22231101,183,true,ASSAULT,,," Conduct suicide, car, or other non-military bombing, not spec below"
+2,2,2,3,1,1,0,1,22231101,1831,true,ASSAULT,,Suicide bomb, Carry out suicide bombing
+2,2,2,3,1,1,0,1,22231101,1832,true,ASSAULT,,, Carry out car bombing
+2,2,2,3,1,1,0,1,22231101,1833,true,ASSAULT,,IED, Carry out roadside bombing
+2,2,2,3,1,1,0,1,22231101,184,true,ASSAULT,,, Use as human shield
+3,2,2,3,1,1,0,1,32231101,185,true,ASSAULT,,, Attempt to assassinate
+3,2,2,3,1,1,0,1,32231101,186,true,ASSAULT,,, Assassinate
+2,1,1,4,4,1,0,1,21144101,19,true,FIGHT,,, Express accord
+2,4,2,2,1,1,2,1,24221121,190,true,FIGHT,,," Use conventional military force, not specified below"
+2,4,3,2,1,1,2,1,24321121,191,true,FIGHT,,," Impose blockade, restrict movement"
+2,4,2,2,1,1,4,1,24221141,192,true,FIGHT,,"Government regains territory, Non-state actor overtakes territory", Occupy territory
+2,4,2,2,1,1,2,1,24221121,193,true,FIGHT,,Armed clash, Fight with small arms and light weapons
+2,4,2,2,1,1,2,1,24221121,194,true,FIGHT,,"Shelling/artillery/missile attack, Grenade", Fight with artillery and tanks
+2,4,2,2,1,1,2,1,24221121,195,true,FIGHT,,Air/drone strike, Employ aerial weapons
+3,4,2,2,1,1,2,1,34221121,196,true,FIGHT,,, Violate ceasefire
+3,1,2,3,3,1,1,1,31233111,20,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,," Appeal, not specified below"
+2,4,2,4,1,1,2,1,24241121,200,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,," Use unconventional mass violence, not specified below"
+2,4,2,4,1,1,3,1,24241131,201,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,, Engage in mass expulsion
+2,4,2,4,1,1,3,1,24241131,202,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,, Engage in mass killings
+2,4,2,4,1,1,2,1,24241121,203,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,, Engage in ethnic cleansing
+2,4,2,4,1,1,2,1,24241121,204,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,," Use weapons of mass destruction, not specified below"
+2,4,2,4,1,1,2,1,24241121,2041,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,Chemical weapon," Use chemical, biological, or radiologicalweapons"
+2,4,3,4,1,4,3,1,24341431,2042,true,ENGAGE IN UNCONVENTIONAL MASS VIOLENCE,,, Detonate nuclear weapons
+3,1,2,4,3,3,2,1,31243321,21,true,APPEAL,,," Appeal for material cooperation, not specified below"
+3,1,4,4,2,3,2,1,31442321,211,true,APPEAL,,, Appeal for economic cooperation
+3,4,2,3,2,3,2,1,34232321,212,true,APPEAL,,, Appeal for military cooperation
+3,1,2,4,3,2,1,1,31243211,213,true,APPEAL,,, Appeal for judicial cooperation
+3,4,1,2,4,1,0,1,34124101,214,true,APPEAL,,, Appeal for intelligence
+4,1,1,2,3,1,0,1,41123101,22,true,APPEAL,,," Appeal for diplomatic cooperation, such as policy support"
+2,1,4,2,3,3,1,1,21423311,23,true,APPEAL,,," Appeal for aid, not specified below"
+2,1,4,2,1,2,1,1,21421211,231,true,APPEAL,,, Appeal for economic aid
+2,4,1,1,1,1,1,1,24111111,232,true,APPEAL,,, Appeal for military aid
+3,0,3,4,1,2,1,1,30341211,233,true,APPEAL,,, Appeal for humanitarian aid
+2,4,2,3,1,1,1,1,24231111,234,true,APPEAL,,, Appeal for military protection or peacekeeping
+4,1,1,1,1,1,1,1,41111111,24,true,APPEAL,,," Appeal for political reform, not specified below"
+4,2,2,2,2,2,1,2,42222212,241,true,APPEAL,,, Appeal for change in leadership
+4,2,2,2,2,2,1,2,42222212,242,true,APPEAL,,, Appeal for policy change
+4,2,1,4,2,1,0,1,42142101,243,true,APPEAL,,, Appeal for rights
+4,3,2,3,2,2,0,1,43232201,244,true,APPEAL,,," Appeal for change in institutions, regime"
+3,3,3,3,3,1,0,1,33333101,25,true,APPEAL,,, Appeal to yield
+4,2,3,3,3,2,0,1,42333201,251,true,APPEAL,,, Appeal for easing of administrative sanctions
+4,2,1,4,3,1,0,1,42143101,252,true,APPEAL,,, Appeal for easing of popular dissent
+4,3,1,4,2,1,0,2,43142102,253,true,APPEAL,,, Appeal for release of persons or property
+3,1,4,2,2,2,1,1,31422211,254,true,APPEAL,,," Appeal for easing of economic sanctions, boycott, or embargo"
+4,2,2,2,2,1,1,1,42222111,255,true,APPEAL,,, Appeal for target to allow international involvement (non-mediation)
+3,4,2,2,2,1,0,1,34222101,256,true,APPEAL,,, Appeal for de-escalation of military engagement
+3,2,2,2,2,1,0,1,32222101,26,true,APPEAL,,, Appeal to others to meet or negotiate
+3,3,2,2,2,1,0,1,33222101,27,true,APPEAL,,, Appeal to others to settle dispute
+3,2,2,3,2,1,0,1,32232101,28,true,APPEAL,,, Appeal to others to engage in or accept mediation
+2,2,2,2,2,1,0,1,22222101,30,true, EXPRESS INTENT TO COOPERATE,,," Express intent to cooperate, not specified below"
+2,2,2,2,2,1,0,1,22222101,31,true, EXPRESS INTENT TO COOPERATE,,," Express intent to engage in material cooperation,  not specified below"
+2,2,4,1,2,1,0,1,22412101,311,true, EXPRESS INTENT TO COOPERATE,,, Express intent to cooperate economically
+2,4,2,2,2,1,0,1,24222101,312,true, EXPRESS INTENT TO COOPERATE,,, Express intent to cooperate militarily
+2,1,1,4,2,1,0,1,21142101,313,true, EXPRESS INTENT TO COOPERATE,,, Express intent to cooperate on judicial matters
+2,3,1,2,4,1,0,1,23124101,314,true, EXPRESS INTENT TO COOPERATE,,, Express intent to cooperate on intelligence
+4,2,2,2,3,1,0,1,42223101,32,true, EXPRESS INTENT TO COOPERATE,,, Express intent to provide diplomatic cooperation such as policy support
+2,2,2,2,2,1,0,1,22222101,33,true, EXPRESS INTENT TO COOPERATE,,," Express intent to provide matyerial aid, not specified below"
+2,2,4,2,2,1,0,1,22422101,331,true, EXPRESS INTENT TO COOPERATE,,, Express intent to provide economic aid
+2,4,2,2,2,1,0,1,24222101,332,true, EXPRESS INTENT TO COOPERATE,,, Express intent to provide military aid
+2,1,4,2,2,1,0,1,21422101,333,true, EXPRESS INTENT TO COOPERATE,,, Express intent to provide humanitarian aid
+2,4,2,2,2,1,0,1,24222101,334,true, EXPRESS INTENT TO COOPERATE,,, Express intent to provide military protection or peacekeeping
+4,2,2,2,2,1,0,1,42222101,34,true, EXPRESS INTENT TO COOPERATE,,," Express intent to institute political reform, not specified below"
+4,2,2,2,2,1,0,1,42222101,341,true, EXPRESS INTENT TO COOPERATE,,, Express intent to change leadership
+4,2,2,2,2,1,0,1,42222101,342,true, EXPRESS INTENT TO COOPERATE,,, Express intent to change policy
+4,2,2,3,2,1,0,1,42232101,343,true, EXPRESS INTENT TO COOPERATE,,, Express intent to provide rights
+4,3,2,2,2,1,0,1,43222101,344,true, EXPRESS INTENT TO COOPERATE,,," Express intent to change institutions, regime"
+3,3,2,1,2,1,0,1,33212101,35,true, EXPRESS INTENT TO COOPERATE,,," Express intent to yield, not specified below"
+3,2,3,2,2,1,0,1,32322101,351,true, EXPRESS INTENT TO COOPERATE,,, Express intent to ease administrative sanctions
+4,2,2,4,2,1,0,1,42242101,352,true, EXPRESS INTENT TO COOPERATE,,, Express intent to ease popular dissent
+3,2,1,4,2,1,0,1,32142101,353,true, EXPRESS INTENT TO COOPERATE,,, Express intent to release persons or property
+3,2,4,2,2,1,0,1,32422101,354,true, EXPRESS INTENT TO COOPERATE,,," Express intent to ease economic sanctions, boycott, or embargo"
+4,2,2,2,2,1,0,1,42222101,355,true, EXPRESS INTENT TO COOPERATE,,, Express intent allow international involvement (not mediation)
+3,4,2,2,2,1,0,1,34222101,356,true, EXPRESS INTENT TO COOPERATE,,, Express intent to de-escalate military engagement
+3,2,1,2,2,1,0,1,32122101,36,true, EXPRESS INTENT TO COOPERATE,,, Express intent to meet or negotiate
+3,2,1,2,2,1,0,1,32122101,37,true, EXPRESS INTENT TO COOPERATE,,, Express intent to settle dispute
+3,2,1,2,2,1,0,1,32122101,38,true, EXPRESS INTENT TO COOPERATE,,, Express intent to accept mediation
+3,2,1,2,2,1,0,1,32122101,39,true,CONSULT,,, Express intent to mediate
+2,1,1,2,2,1,0,1,21122101,40,true,CONSULT,,," Consult, not specified below"
+2,1,1,2,2,1,0,1,21122101,41,true,CONSULT,,, Discuss by telephone
+2,1,1,2,2,1,2,1,21122121,42,true,CONSULT,,, Make a visit
+2,1,1,2,2,1,2,1,21122121,43,true,CONSULT,,, Host a visit
+2,1,1,2,2,1,2,1,21122121,44,true,CONSULT,,, Meet at a ÒhirdÓlocation
+2,1,1,2,2,1,0,1,21122101,45,true,CONSULT,,, Mediate
+2,2,2,2,2,1,0,1,22222101,46,true,CONSULT,,, Engage in negotiation
+4,1,1,2,2,1,0,1,41122101,50,true, ENGAGE IN DIPLOMATIC COOPERATION,,," Engage in diplomatic cooperation, not specified below"
+4,1,1,2,2,1,0,1,41122101,51,true, ENGAGE IN DIPLOMATIC COOPERATION,,, Praise or endorse
+4,1,1,2,2,1,0,1,41122101,52,true, ENGAGE IN DIPLOMATIC COOPERATION,,, Defend verbally
+4,1,1,2,2,1,0,1,41122101,53,true, ENGAGE IN DIPLOMATIC COOPERATION,,, Rally support on behalf of
+4,1,1,2,2,1,0,1,41122101,54,true, ENGAGE IN DIPLOMATIC COOPERATION,,, Grant diplomatic recognition
+4,1,1,2,2,1,0,1,41122101,55,true, ENGAGE IN DIPLOMATIC COOPERATION,,, Apologize
+4,1,1,2,2,1,0,1,41122101,56,true, ENGAGE IN DIPLOMATIC COOPERATION,,, Forgive
+4,1,1,2,2,1,0,1,41122101,57,true, ENGAGE IN DIPLOMATIC COOPERATION,,Agreement, Sign formal agreement
+2,2,2,2,2,1,0,1,22222101,60,true, ENGAGE IN MATERIAL COOPERATION,,Non-violent transfer of territory," Engage in material cooperation, not specified below"
+2,2,4,2,2,1,0,1,22422101,61,true, ENGAGE IN MATERIAL COOPERATION,,, Cooperate economically
+2,4,2,2,2,1,0,1,24222101,62,true, ENGAGE IN MATERIAL COOPERATION,,, Cooperate militarily
+2,2,2,3,2,1,0,1,22232101,63,true, ENGAGE IN MATERIAL COOPERATION,,, Engage in judicial cooperation
+2,2,2,2,4,1,0,1,22224101,64,true, ENGAGE IN MATERIAL COOPERATION,,, Share intelligence or information
+2,2,2,2,2,1,0,1,22222101,70,true, PROVIDE AID,,," Provide aid, not specified below"
+2,2,4,2,2,1,0,1,22422101,71,true, PROVIDE AID,,, Provide economic aid
+2,4,2,2,2,1,0,1,24222101,72,true, PROVIDE AID,,, Provide military aid
+2,2,2,4,2,1,0,1,22242101,73,true, PROVIDE AID,,, Provide humanitarian aid
+2,4,2,2,2,1,0,1,24222101,74,true, PROVIDE AID,,, Provide military protection or peacekeeping
+4,1,2,2,2,1,0,1,41222101,75,true, PROVIDE AID,,, Grant asylum
+2,2,2,2,2,1,0,1,22222101,80,true, YIELD,,," Yield, not specified below"
+3,2,2,2,2,1,0,1,32222101,81,true, YIELD,,," Ease administrative sanctions, not specified below"
+4,2,2,3,2,1,0,1,42232101,811,true, YIELD,,, Ease restrictions on political freedoms
+4,2,2,3,2,1,0,1,42232101,812,true, YIELD,,, Ease ban on political parties or politicians
+2,2,2,3,2,1,0,4,22232104,813,true, YIELD,,, Ease curfew
+2,3,2,2,2,1,0,1,23222101,814,true, YIELD,,, Ease state of emergency or martial law
+4,2,2,3,2,1,0,1,42232101,82,true, YIELD,,, Ease political dissent
+4,2,2,2,2,1,0,1,42222101,83,true, YIELD,,, Accede to requests or demands for political reform not specified below
+4,2,2,2,2,1,0,1,42222101,831,true, YIELD,,, Accede to demands for change in leadership
+4,2,2,2,2,1,0,1,42222101,832,true, YIELD,,, Accede to demands for change in policy
+4,2,2,4,2,1,0,1,42242101,833,true, YIELD,,, Accede to demands for rights
+4,2,2,3,2,1,0,1,42232101,834,true, YIELD,,," Accede to demands for change in institutions, regime"
+2,2,2,2,2,1,0,1,22222101,84,true, YIELD,,," Return, release, not specified below"
+2,2,2,2,2,1,0,1,22222101,841,true, YIELD,,," Return, release person(s)"
+2,2,2,2,2,1,0,1,22222101,842,true, YIELD,,," Return, release property"
+2,2,4,2,2,1,0,1,22422101,85,true, YIELD,,," Ease economic sanctions, boycott, embargo"
+2,2,2,2,2,1,0,1,22222101,86,true, YIELD,,, Allow international involvement not specified below
+2,3,2,2,2,1,0,1,23222101,861,true, YIELD,,, Receive deployment of peacekeepers
+2,2,2,2,2,1,0,1,22222101,862,true, YIELD,,, Receive inspectors
+2,2,4,3,2,1,0,1,22432101,863,true, YIELD,,, Allow delivery of humanitarian aid
+2,4,2,2,2,1,0,1,24222101,87,true, YIELD,,, De-escalate military engagement
+2,4,2,2,2,1,0,1,24222101,871,true, YIELD,,," Declare truce, ceasefire"
+2,4,2,2,2,1,0,1,24222101,872,true, YIELD,,, Ease military blockade
+2,4,2,2,2,1,0,1,24222101,873,true, YIELD,,, Demobilize armed forces
+2,4,2,2,2,1,0,1,24222101,874,true, YIELD,,, Retreat or surrender militarily
+2,1,1,3,4,1,0,1,21134101,90,true, INVESTIGATE,,," Investigate, not specified below"
+2,1,1,3,4,1,0,1,21134101,91,true, INVESTIGATE,,," Investigate crime, corruption"
+2,1,1,3,4,1,0,1,21134101,92,true, INVESTIGATE,,, Investigate human rights abuses
+2,4,1,3,4,1,0,1,24134101,93,true, INVESTIGATE,,, Investigate military action
+2,4,1,3,4,1,0,1,24134101,94,true, INVESTIGATE,,, Investigate war crimes
+2,1,1,1,2,0,0,1,21112001,12,true,#ROOT,,, REJECT
+2,2,2,2,2,1,0,1,22222101,13,true,#ROOT,,, THREATEN
+2,2,2,3,3,2,1,1,22233211,14,true,#ROOT,,, PROTEST
+2,4,2,2,2,2,3,1,24222231,15,true,#ROOT,,, EXHIBIT FORCE POSTURE
+3,2,2,2,2,1,0,1,32222101,16,true,#ROOT,,, REDUCE RELATIONS
+2,2,2,2,2,2,0,1,22222201,17,true,#ROOT,,, COERCE
+2,2,2,3,1,1,0,1,22231101,18,true,#ROOT,,, ASSAULT
+3,1,2,3,3,1,1,1,31233111,2,true,#ROOT,,, APPEAL
+2,2,2,2,2,1,0,1,22222101,3,true,#ROOT,,, EXPRESS INTENT TO COOPERATE
+2,1,1,2,2,1,0,1,21122101,4,true,#ROOT,,, CONSULT
+4,1,1,2,2,1,0,1,41122101,5,true,#ROOT,,, ENGAGE IN DIPLOMATIC COOPERATION
+2,2,2,2,2,1,0,1,22222101,6,true,#ROOT,,, ENGAGE IN MATERIAL COOPERATION
+2,2,2,2,2,1,0,1,22222101,7,true,#ROOT,,, PROVIDE AID
+2,2,2,2,2,1,0,1,22222101,8,true,#ROOT,,, YIELD
+2,1,1,3,4,1,0,1,21134101,9,true,#ROOT,,, INVESTIGATE
+2,1,0,1,2,0,0,1,21012001,11,true,#ROOT,,, DISAPPROVE
+2,2,2,2,2,1,0,1,22222101,10,true,#ROOT,,, DEMAND
+2,4,2,2,1,1,2,1,24221121,19,true,#ROOT,,, FIGHT
+2,4,2,4,1,1,2,1,24241121,20,true,#ROOT,,, USE UNCONVENTIONAL MASS VIOLENCE
+2,1,1,4,4,1,0,1,21144101,1,true,#ROOT,,, MAKE PUBLIC STATEMENT
+3,2,0,2,0,1,0,1,32020101,10002,false,Change to group/activity,,Change to group/activity,Change to group/activity
+3,3,0,0,1,0,1,1,33001011,10003,false,Disrupted weapons use,,Disrupted weapons use,Disrupted weapons use
+3,4,2,2,2,1,3,1,34222131,10001,false,Headquarters or base established,,Headquarters or base established,Headquarters or base established
+0,0,0,0,0,0,0,0,0,0,false,Other,,Other,Other
