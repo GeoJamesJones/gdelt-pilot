@@ -186,9 +186,9 @@ class GDELT_Record:
             exit()
 
 def main():
-    geojsons = []
     
-    doc_folder = r"C:\raw_files"
+    completed_files = os.listdir('E:\completed')
+    doc_folder = r"C:\test\exportcsv"
     before = {}
     # Empty counter object used to keep track of how many documents have been processed.
     count = 0
@@ -205,27 +205,31 @@ def main():
         before = after
 
         for doc in added:
-            csv_file = os.path.join(r"C:\raw_files",doc)
-            try:
-                with open(csv_file, 'r') as f:
-                    csvreader = csv.reader(f, delimiter='\t', quotechar='|')
-                    for row in csvreader:
-                        record = GDELT_Record(record=row)
-                        record.map_pmesii()
-                        geojsons.append(record.to_GeoJSON())
+            if doc + ".geojson" not in completed_files:
+                geojsons = []
+                csv_file = os.path.join(r"C:\test\exportcsv",doc)
+                
+                try:
+                    with open(csv_file, 'r') as f:
+                        csvreader = csv.reader(f, delimiter='\t', quotechar='|')
+                        for row in csvreader:
+                            record = GDELT_Record(record=row)
+                            record.map_pmesii()
+                            geojsons.append(record.to_GeoJSON())
 
-                geojson_to_write = FeatureCollection(geojsons)
+                    geojson_to_write = FeatureCollection(geojsons)
 
-                out_file = os.path.join(r'C:\GeoJSON', doc + '.geojson')
+                    out_file = os.path.join(r'E:\GeoJSON', doc + '.geojson')
 
-                with open(out_file, 'w') as w:
-                    geojson.dump(geojson_to_write, w)
+                    with open(out_file, 'w') as w:
+                        geojson.dump(geojson_to_write, w)
                     
-                shutil.move(csv_file, r'C:\complete_csv')
-            except Exception as e:
-                print(e)
-                shutil.move(csv_file, r'C:\errors')
+                    percent = str((added.index(doc) / len(added)) * 100)
+                    print("{}% complete".format(percent))
+                    os.remove(csv_file)
+                except Exception as e:
+                    print(e)
+                    shutil.move(csv_file, r'C:\errors')
 
 if __name__ == '__main__':
     main()
-

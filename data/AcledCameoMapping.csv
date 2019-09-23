@@ -1,0 +1,26 @@
+﻿EventSubCategory,EventCategory,CameoCode
+Government regains territory,Battles,192
+Armed clash,Battles,193
+Non-state actor overtakes territory,Battles,192
+Chemical weapon,Explosions/Remote violence,2041
+Shelling/artillery/missile attack,Explosions/Remote violence,194
+Grenade,Explosions/Remote violence,194
+Remote explosive/landmine/IED,Explosions/Remote violence,1833
+Air/drone strike,Explosions/Remote violence,195
+Suicide bomb,Explosions/Remote violence,1831
+Excessive force against protesters,Protests,175
+Protest with intervention,Protests,141
+Peaceful protest,Protests,141
+Mob violence,Riots,145
+Violent demonstration,Riots,145
+Other,Strategic developments,0
+Non-violent transfer of territory,Strategic developments,60
+Agreement,Strategic developments,57
+Arrests,Strategic developments,173
+Looting/property destruction,Strategic developments,171
+Headquarters or base established,Strategic developments,10001
+Change to group/activity,Strategic developments,10002
+Disrupted weapons use,Strategic developments,10003
+Attack,Violence against civilians,175
+Sexual violence,Violence against civilians,1822
+Abduction/forced disappearance,Violence against civilians,181
